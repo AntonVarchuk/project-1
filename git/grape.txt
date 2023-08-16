@@ -1,2 +1,16 @@
-мені дмитро розказує казку
-я дуже його люблю
+circle {
+    width:20px;
+    height:20px;
+    border-radius: 50%;
+    }
+
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+
+.black{
+    background-color:black;
+}
